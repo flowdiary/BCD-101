@@ -4,7 +4,7 @@ These are the list of projects we completed in the course:
 
 ------------------------------------------------------------------------
 
-## 1. Simple Storage
+## 1. Age Storage
 
 **Code:**
 https://github.com/flowdiary/BCD-101/blob/main/projects/AgeStorage.sol
